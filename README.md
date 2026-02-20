@@ -12,3 +12,5 @@ User can see product details and add their desired products to cart. There are v
 
 After order, user receives an invoice at registered email address and a message with order details on the registered mobile number.
 
+The GroMobile app and EcommerceWebsite are linked through a shared backend system that manages products, users, orders, and payments. Both platforms access the same database and APIs, ensuring that any updates made on one side (like adding products, processing orders, or updating user profiles) are instantly reflected on the other. Users can log in with a single account, browse products, add items to their cart, and complete purchases seamlessly whether they are on the mobile app or the website. This creates a unified shopping experience, with synchronized data, consistent design elements, and shared business logic.
+
