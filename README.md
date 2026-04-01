@@ -1,4 +1,4 @@
-<img width="540" height="365" alt="web" src="https://github.com/user-attachments/assets/49be9e9b-dc19-4514-a4db-00198ea365fd" />
+
 
 Details of Online Grocery Store Shopping Project Website:-
 This Online Grocery Store Shopping Project Website is based on Online Grocery Store where users can buy products for their daily needs. This is a fully dynamic project which is connected with a database. There are 2 modules in a project which are as follows:-
