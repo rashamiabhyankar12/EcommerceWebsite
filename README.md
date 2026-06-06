@@ -1,5 +1,6 @@
 
 <img width="480" height="342" alt="1780718092301" src="https://github.com/user-attachments/assets/d4098ae4-349b-40d8-84d7-119dc7fc4c51" />
+<img width="1287" height="994" alt="invoice" src="https://github.com/user-attachments/assets/a0e53773-c4af-4b1a-9deb-4475dc85a22b" />
 
 Details of Online Grocery Store Shopping Project Website:-
 This Online Grocery Store Shopping Project Website is based on Online Grocery Store where users can buy products for their daily needs. This is a fully dynamic project which is connected with a database. There are 2 modules in a project which are as follows:-
