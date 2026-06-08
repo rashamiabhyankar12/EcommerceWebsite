@@ -1,5 +1,5 @@
+<img width="1210" height="864" alt="WebApplication" src="https://github.com/user-attachments/assets/2ecc8de5-ced4-4b2d-9688-03bb7c7650bb" />
 
-<img width="480" height="342" alt="1780718092301" src="https://github.com/user-attachments/assets/d4098ae4-349b-40d8-84d7-119dc7fc4c51" />
 
 
 Details of Online Grocery Store Shopping Project Website:-
